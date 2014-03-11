@@ -1,0 +1,27 @@
+!SESSION 2013-06-11 21:57:22.359 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=el_GR
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data H:\ΕΑΠ\ΣΔΥ-51\ΕΡΓΑΣΙΕΣ ΣΔΥ51\4Η ΕΡΓΑΣΙΑ\SDY51_4ERG_MPOYSIOS_ATHANASIOS\EasyInfo\EasyInfo
+
+!ENTRY org.eclipse.ui 2 2 2013-06-11 21:58:27.772
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-06-11 21:58:32.000 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=el_GR
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data H:\ΕΑΠ\ΣΔΥ-51\ΕΡΓΑΣΙΕΣ ΣΔΥ51\4Η ΕΡΓΑΣΙΑ\SDY51_4ERG_MPOYSIOS_ATHANASIOS\EasyInfo\EasyInfo
+
+!ENTRY org.eclipse.ui 2 2 2013-06-11 21:59:01.706
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-06-11 21:59:50.444 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=el_GR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 2 2013-06-11 22:00:18.103
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)

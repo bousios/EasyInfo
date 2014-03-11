@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">  
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#0000EE"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:paddingTop="6dip"
+            android:paddingBottom="2dip"
+            android:background="#CCAAAAAA" />
+
+        <TextView
+            android:id="@+id/mobileurl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:paddingBottom="2dip"
+            android:background="#CCAAAAAA">
+        </TextView>
+
+        <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:gravity="left"
+            android:textStyle="bold"
+            android:text="Απόσταση :"
+            android:background="#CCAAAAAA" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/distance"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000" 
+            android:gravity="left"
+            android:background="#CCAAAAAA">
+        </TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

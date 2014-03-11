@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+H:\еап\сду-51\еяцасиес сду51\4г еяцасиа\SDY51_4ERG_MPOYSIOS_ATHANASIOS\EasyInfo\.metadata\.plugins\org.eclipse.jdt.core
+2239131249.index
+223908272.index
+1895151578.index
+1527268912.index
